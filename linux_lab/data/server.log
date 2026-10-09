@@ -1,0 +1,30 @@
+2026-10-01 08:00:01 INFO Server started
+2026-10-01 08:00:05 DEBUG Loading configuration
+2026-10-01 08:01:12 INFO User ravi login successful
+2026-10-01 08:03:40 INFO User kiran login successful
+2026-10-01 08:05:22 WARN Disk usage at 75 percent
+2026-10-01 08:07:09 DEBUG Cache warmed up
+2026-10-01 08:10:31 ERROR Database connection failed
+2026-10-01 08:10:35 INFO Retrying database connection
+2026-10-01 08:10:40 INFO Database connection restored
+2026-10-01 08:15:03 INFO User naveen Login failed
+2026-10-01 08:15:44 WARN Too many login attempts for naveen
+2026-10-01 08:20:00 DEBUG Heartbeat OK
+2026-10-01 08:25:17 INFO File upload completed
+2026-10-01 08:30:02 ERROR Disk write error on /var/data
+2026-10-01 08:31:15 WARN Disk usage at 90 percent
+2026-10-01 08:35:50 INFO User ravi logout
+2026-10-01 08:40:00 DEBUG Heartbeat OK
+2026-10-01 08:45:26 INFO Backup started
+2026-10-01 08:52:10 INFO Backup finished
+2026-10-01 09:00:00 INFO Daily report generated
+2026-10-01 09:05:33 ERROR Email service timeout
+2026-10-01 09:10:12 INFO User kiran logout
+2026-10-01 09:15:00 DEBUG Heartbeat OK
+2026-10-01 09:20:45 WARN Memory usage at 80 percent
+2026-10-01 09:30:00 INFO Maintenance window begins
+2026-10-01 09:45:18 INFO Maintenance window ends
+2026-10-01 10:00:00 DEBUG Heartbeat OK
+2026-10-01 10:05:09 INFO User meera login successful
+2026-10-01 10:30:41 ERROR Payment gateway unreachable
+2026-10-01 11:00:00 INFO Server shutdown

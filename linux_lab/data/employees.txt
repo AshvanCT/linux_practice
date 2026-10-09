@@ -1,0 +1,10 @@
+101 John IT 50000 Pune
+102 Alice HR 45000 Delhi
+103 Bob IT 60000 Mumbai
+104 David Finance 55000 Chennai
+105 Sarah HR 48000 Bengaluru
+106 Meera IT 72000 Hyderabad
+107 Rahul Finance 51000 Kochi
+108 Priya HR 53000 Pune
+109 Karan IT 58000 Delhi
+110 Anita Finance 62000 Mumbai
